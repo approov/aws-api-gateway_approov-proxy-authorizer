@@ -31,7 +31,7 @@ validate if the token binding on it matches the token binding value in the heade
 
 ## Issue Reporting
 
-If you have found a bug please report them [here](issues/new).
+If you have found a bug please report them [here](https://github.com/approov/aws-api-gateway_approov-proxy-authorizer/issues/new).
 
 
 ## License
