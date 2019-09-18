@@ -1,8 +1,7 @@
 # Approov Proxy Authorizer for the AWS API Gateway
 
-These Python code examples are for implementing [Approov](https://approov.io/approov-in-detail.html) as a Proxy Authorizer in the AWS API Gateway.
-
-For production usage please use the package that best suites your framework of choice.
+These Python code examples are for implementing [Approov](https://approov.io/approov-in-detail.html) as a Proxy
+Authorizer in the AWS API Gateway, and you can learn how to do it by reading the [Approov AWS Serverless API Proxy](https://info.approov.io/approov-api-proxy-ebook) e-book.
 
 
 ## AWS API Gateway Authorizer
